@@ -1,6 +1,7 @@
 # Abstract Pandemic Agent Based Model
 
-This repository includes a NetLogo model simulating the spread of a pandemic across a population.
+This repository includes a NetLogo model simulating the spread of a pandemic across a population. The model can be run on an internet browser here: [https://yahyagamal.github.io/ABM_Pandemic/](https://yahyagamal.github.io/ABM_Pandemic/)
+
 The space is represented as a grid of square pixels that can be the home of an individual or a location of interest (e.g., work).
 Agents represent individuals that can move through space.
 Agents have one of three states:
